@@ -18,8 +18,8 @@ Created for the UofA Med PHX Dep of Transl Neuro Sci pbc-hpc cluster
 ## References:
 - [nf-core/rnaseq website](https://nf-co.re/rnaseq/3.18.0/)
 - [github](https://github.com/nf-core/rnaseq/tree/3.18.0)
-- [fasta](https://ftp.ensembl.org/pub/release-113/fasta/homo_sapiens/dna/Homo_sapiens.GRCh38.dna.primary_assembly.fa.gz)
-- [gtf](https://ftp.ensembl.org/pub/release-113/gtf/homo_sapiens/Homo_sapiens.GRCh38.113.gtf.gz)
+- [fasta download](https://ftp.ensembl.org/pub/release-113/fasta/homo_sapiens/dna/Homo_sapiens.GRCh38.dna.primary_assembly.fa.gz)
+- [gtf download](https://ftp.ensembl.org/pub/release-113/gtf/homo_sapiens/Homo_sapiens.GRCh38.113.gtf.gz)
   
 ## Steps
 
