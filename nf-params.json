@@ -1,0 +1,14 @@
+{
+    "input": "\/path\/to\/sheet.csv",
+    "outdir": "\/path\/to\/nf_rnaseq_out",
+    "email": "danielhmendoza01@arizona.edu",
+    "fasta": "\/path\/to\/Homo_sapiens.GRCh38.dna.primary_assembly.fa.gz",
+    "gtf": "\/path\/to\/reference113\/Homo_sapiens.GRCh38.113.gtf.gz",
+    "trimmer": "fastp",
+    "pseudo_aligner": "salmon",
+    "save_merged_fastq": true,
+    "save_reference": true,
+    "save_unaligned": true,
+    "contaminant_screening": "kraken2_bracken",
+    "kraken_db": "\/path\/to\/kraken_db"
+}
